@@ -5,5 +5,4 @@ jdk:
 script: ./mvnw clean install
 
 notifications:
- email: udchemen@gmail.com
-	 
+ email: udchemen@gmail.com 
